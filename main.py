@@ -11,17 +11,17 @@ y2 = 0
 x2 = 0
 y1 = 0
 x1 = 0
+text_sprite = None
 tiles.set_current_tilemap(tilemap("""
     level2
 """))
-text_sprite = None
 c = "G"
 r = "L"
 e = "X"
 a = "Z"
 t = "Y"
-o = "@wood52995"
-r = "twitter"
+o = "@wood52995 on twitter"
+r = "https://github.com/woodj3wh8r"
 playa = sprites.create(img("""
         . . . . c c c b b b b b . . . . 
             . . c c b 4 4 4 4 4 4 b b b . . 

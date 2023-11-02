@@ -12,17 +12,17 @@ let y2 = 0
 let x2 = 0
 let y1 = 0
 let x1 = 0
+let text_sprite = null
 tiles.setCurrentTilemap(tilemap`
     level2
 `)
-let text_sprite = null
 let c = "G"
 let r = "L"
 let e = "X"
 let a = "Z"
 let t = "Y"
-let o = "@wood52995"
-r = "twitter"
+let o = "@wood52995 on twitter"
+r = "https://github.com/woodj3wh8r"
 let playa = sprites.create(img`
         . . . . c c c b b b b b . . . . 
             . . c c b 4 4 4 4 4 4 b b b . . 
